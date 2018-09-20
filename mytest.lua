@@ -47,5 +47,9 @@ else
         print(v, msg or "")
 
     end 
+
+    print("server version = ")
+    print(m:version())
+
 end
 

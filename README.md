@@ -6,9 +6,10 @@ Initially, I plan to create commands for:
 * set - completed sep 20, 2018
 * get - completed sep 20, 2018
 * replace
-* delete
+* delete - completed sep 20, 2010
 * flush
-* quit
+* quit - completed sep 20, 2010
+* version - completed sep 20, 2010
 
 
 Helpful links:
